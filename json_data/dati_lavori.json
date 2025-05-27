@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "src" : "Immagini_Lavoro/social_media1.avif",
+    "title": "Bagnolo",
+    "description": "Grazie al mio sviluppo grafico per i social media, realizzo contenuti visivi accattivanti e su misura, capaci di catturare l’essenza di progetti unici, dando vita a un immaginario ricco di ruoli, luoghi e storie che coinvolgono ed emozionano il pubblico digitale.",
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=1",
+    "image": "Img/1Lavoro.png",
+    "name": "Social Content ristorante Bagnolo"
+   },
+
+  {
+    "id": 2,
+    "src": "Immagini_Lavoro/social_media2.jpg", 
+    "title": "Bagnolo",
+    "description": "Grazie al mio sviluppo grafico per i social media, realizzo contenuti visivi accattivanti e su misura, capaci di catturare l’essenza di progetti unici, dando vita a un immaginario ricco di ruoli, luoghi e storie che coinvolgono ed emozionano il pubblico digitale.",
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=1",
+    "image": "Img/1Lavoro.png",
+    "name": "Social Content ristorante Bagnolo"
+   },
+
+   {
+    "id": 3,
+    "src" : "Immagini_Lavoro/1Cine.png",
+    "title": "Cinecittà",
+    "description": "I video promozionali che si trovano di seguito, hanno l'obiettivo di esplicare nel migliore dei modi le esposizioni della mostra di Cinecittà, sottolineando l’immaginario cinematografico riguardante i ruoli, i luoghi e la storia di essa.", 
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=2",
+    "image": "Img/2Lavoro.png",
+    "name": "Motion Graphics per Cinecittà"
+
+    },
+
+   {
+    "id": 4, 
+    "src": "Immagini_Lavoro/2Cine.png", 
+    "title": "Cinecittà", 
+    "description": "I video promozionali che si trovano di seguito, hanno l'obiettivo di esplicare nel migliore dei modi le esposizioni della mostra di Cinecittà, sottolineando l’immaginario cinematografico riguardante i ruoli, i luoghi e la storia di essa.",
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=2",
+    "image": "Img/2Lavoro.png",
+    "name": "Motion Graphics per Cinecittà"
+    },
+
+   {
+    "id": 5,
+    "src" : "Immagini_Lavoro/logo1.webp",
+    "title": "Qadmio",
+    "description": "Con il mio sviluppo grafico di loghi per i social media, progetto identità visive distintive e memorabili. Ogni logo è pensato per riflettere l’essenza unica di un brand, combinando creatività e strategia. Il risultato sono simboli che catturano l’attenzione e si fissano nella mente del pubblico digitale.", 
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=3",
+    "image": "Img/3Lavoro.png",
+    "name": "Qadmio Web Services"
+    },
+
+   {
+    "id": 6, 
+    "src": "Immagini_Lavoro/logo2.png", 
+    "title": "Qadmio",
+    "description": "Con il mio sviluppo grafico di loghi per i social media, progetto identità visive distintive e memorabili. Ogni logo è pensato per riflettere l’essenza unica di un brand, combinando creatività e strategia. Il risultato sono simboli che catturano l’attenzione e si fissano nella mente del pubblico digitale.", 
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=3",
+    "image": "Img/3Lavoro.png",
+    "name": "Qadmio Web Services"
+
+    },
+
+
+   {
+    "id": 7,
+    "src" : "Immagini_Lavoro/visual1.jpg",
+    "title": "Polemos",
+    "description": "Mediante il mio sviluppo grafico di visual per i social media, creo immagini che raccontano storie e attirano sguardi. Ogni visual è progettato per trasmettere emozioni e valorizzare l’identità di un progetto con stile e originalità.   Il mio obiettivo è rendere ogni contenuto un’esperienza visiva che lascia il segno nel pubblico online.", 
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=4",
+    "image": "Img/4Lavoro.png",
+    "name": "Polemos Podcast"
+    },
+
+   {
+    "id": 8, 
+    "src": "Immagini_Lavoro/visual2.jpg", 
+    "title": "Polemos",
+    "description": "Mediante il mio sviluppo grafico di visual per i social media, creo immagini che raccontano storie e attirano sguardi. Ogni visual è progettato per trasmettere emozioni e valorizzare l’identità di un progetto con stile e originalità.   Il mio obiettivo è rendere ogni contenuto un’esperienza visiva che lascia il segno nel pubblico online.",  
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=4",
+    "image": "Img/4Lavoro.png",
+    "name": "Polemos Podcast"
+    },
+
+
+   {
+    "id": 9,
+    "src" : "Immagini_Lavoro/advertising1.webp",
+    "title": "Adidas",
+    "description": "Attraverso il mio sviluppo grafico per l’advertising sui social media, progetto contenuti che spiccano e persuadono. Ogni design è calibrato per suscitare interesse e rafforzare il brand con un mix di estetica e finalità. L’obiettivo è trasformare visioni in promozioni efficaci che risuonano con il pubblico online.", 
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=5",
+    "image": "Img/5Lavoro.png",
+    "name": "PogbaXAdidas"
+    },
+
+   {
+    "id": 10, 
+    "src": "Immagini_Lavoro/advertising2.webp", 
+    "title": "Adidas",
+    "description": "Attraverso il mio sviluppo grafico per l’advertising sui social media, progetto contenuti che spiccano e persuadono. Ogni design è calibrato per suscitare interesse e rafforzare il brand con un mix di estetica e finalità. L’obiettivo è trasformare visioni in promozioni efficaci che risuonano con il pubblico online.", 
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=5",
+    "image": "Img/5Lavoro.png",
+    "name": "PogbaXAdidas"
+    },
+
+
+  {
+    "id": 11,
+    "src" : "Immagini_Lavoro/branding1.webp",
+    "title": "Wildside",
+    "description": "Con il mio sviluppo grafico per il branding sui social media, costruisco identità visive solide e riconoscibili. Ogni elemento è pensato per incarnare i valori di un marchio, fondendo coerenza stilistica e creatività unica. Il risultato è un’immagine di brand che si distingue e crea connessioni autentiche con il pubblico digitale.", 
+    "alt": "Immagine 1",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=6",
+    "image": "Img/6Lavoro.png",
+    "name": "Branding Wildside Brewery"
+    },
+
+   {
+    "id": 12, 
+    "src": "Immagini_Lavoro/branding2.webp", 
+    "title": "Wildside",
+    "description": "Con il mio sviluppo grafico per il branding sui social media, costruisco identità visive solide e riconoscibili. Ogni elemento è pensato per incarnare i valori di un marchio, fondendo coerenza stilistica e creatività unica. Il risultato è un’immagine di brand che si distingue e crea connessioni autentiche con il pubblico digitale.", 
+    "alt": "Immagine 2",
+    "tipo":"Sviluppo",
+    "link": "dettagliolavoro.php?project=6",
+    "image": "Img/6Lavoro.png",
+    "name": "Branding Wildside Brewery"
+    }
+  ]
+
+
+  
+
+
+
+  
+  
+  
+  
+  
